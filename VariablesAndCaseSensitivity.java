@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class VariablesAndCaseSensitivity {
     public static void main(String[] args) {
         int studentAge = 15;
         double itemPrice = 29.99;
